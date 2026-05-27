@@ -28,7 +28,7 @@ Resumo breve sobre a apresentaçao:
  Mostra o historico de commits 
 
 
-#7 Versionamento em nuvem 
+# 7 Versionamento em nuvem 
 ## 7.1 Serviços 
 
 ### 7.1.1 GitHub
