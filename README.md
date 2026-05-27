@@ -7,12 +7,12 @@ Grupo: Bianka,Camila,Samuel,Raissa e Lucas Rafael
 
 Resumo breve sobre a apresentaçao:
 
-#6.2 Comandos Git 
+# 6.2 Comandos Git 
 
-##6.1 Int 
+## 6.1 Int 
  Inicia um repositorio Git no projeto 
 
-##6.2.2 ADD 
+## 6.2.2 ADD 
  Adicionados arquivos para preparaçao de salvamento 
 
 ##6.2.3 CONFIG 
