@@ -7,6 +7,10 @@ Grupo: Bianka,Camila,Samuel,Raissa e Lucas Rafael
 
 Resumo breve sobre a apresentaçao:
 
+ Sistema de Controle de Versões Distribuído O Git é uma ferramenta utilizada para controlar versões de projetos, permitindo registrar alterações no código e facilitar o trabalho em equipe. 
+ Sua evolução trouxe mais segurança, rapidez e colaboração no desenvolvimento de software, já que cada desenvolvedor possui uma cópia completa do repositório.
+ Comandos Iniciais Os principais comandos do Git são:
+
 # 6.2 Comandos Git 
 
 ## 6.1 Int 
