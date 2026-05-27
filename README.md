@@ -1,3 +1,5 @@
+
+
 # Primeiro-repositorio-
 Apresentaçao 27/05
 
@@ -7,29 +9,27 @@ Resumo breve sobre a apresentaçao:
 
 #6.2 Comandos Git 
 
-#6.1 Int 
+##6.1 Int 
  Inicia um repositorio Git no projeto 
 
-#6.2.2 ADD 
+##6.2.2 ADD 
  Adicionados arquivos para preparaçao de salvamento 
 
-#6.2.3 CONFIG 
+##6.2.3 CONFIG 
  Configura usuario e e-mail do Git 
 
-#6.2.4 STATUS 
+##6.2.4 STATUS 
  Mostra os arquivos 
 
- #6.2.5 COMMIT 
+##6.2.5 COMMIT 
   Salva as alteraçoes no historico 
 
-#6.2.6 LOG 
+##6.2.6 LOG 
  Mostra o historico de commits 
 
 
-
-
 #7 Versionamento em nuvem 
-#7.1 Serviços 
+##7.1 Serviços 
 
 ###7.1.1 GitHub
  Plataforma para armazenar codigo e trabalhar em equipe 
