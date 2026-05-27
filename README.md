@@ -5,6 +5,9 @@ Apresentaçao 27/05
 
 Grupo: Bianka,Camila,Samuel,Raissa e Lucas Rafael 
 
+ Apresentação no canva 
+ https://www.canva.com/design/DAHKw9nknr0/qhttzJfRDVeage8ja1yd6g/view?utm_content=DAHKw9nknr0&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+
 Resumo breve sobre a apresentaçao:
 
  Sistema de Controle de Versões Distribuído O Git é uma ferramenta utilizada para controlar versões de projetos, permitindo registrar alterações no código e facilitar o trabalho em equipe. 
